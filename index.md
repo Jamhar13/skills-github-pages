@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!！
+title: Welcome to my blog!
 ---
+#你好，我是Jamhar13
